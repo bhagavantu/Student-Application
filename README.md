@@ -2,7 +2,8 @@
 ==
 
 
-# About the project:
+**About the project:**
+
 The "Student Result Management Application" has been developed to overide the problems prevailing in the practicing manual system.
 The main objective of the project is to provide the examination result to the student in a simple way.
 This project is useful for students and institutions for getting the results in simple manner.

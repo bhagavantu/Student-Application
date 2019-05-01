@@ -1,0 +1,6 @@
+To run this project required Softwares are:
+  * Python 3.7.2 
+  * Sublime Text
+  * peewee installed "pip install peewee" command on command prompt to install library
+  * DB Browser for SQLite version 3.11.2
+  * Commnad Prompt

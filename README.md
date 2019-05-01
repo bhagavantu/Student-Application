@@ -16,9 +16,9 @@ This project built by using tkinter, peewee and Database SQlite.
     * Student USN
     * Subject Name
     * Subject code
-    * Internal_Assessment_1 marks
-    * Internal_Assessment_2 marks
-    * Internal_Assessment_3 marks
+    * Internal_Assessment_1_marks
+    * Internal_Assessment_2_marks
+    * Internal_Assessment_3_marks
     * External marks
       
 2. Since we need all of these information to create student application, we have 5 features they are:

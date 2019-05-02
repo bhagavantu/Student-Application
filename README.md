@@ -37,12 +37,15 @@ This project built by using tkinter, peewee and Database SQlite.
      
   # Documentation:
 1. To run this project, clone or download this project on your computer.
-2. After downoloading the project, open the python3 software if you installed already, otherwise download python 3 software and install    on your computer.
+2. After downoloading the project, open python3 software if you installed already, otherwise download python 3 and other requirement        softwares and install    on your computer.
 3. Open command prompt, Navigate to the project folder to run this project. For example: folder name is Student-Application and in this    folder you have sources file so to open this file use command as mentioned below:
 
   	      $ cd Student-Application/sources
 4. After navigation of project folder path, click on program files and open the files on your workspace and save it.
-5. To run this project, you have to Run main.py and execute the program using command as mentioned below:
+5. We need to store the data and create Database for Student application so first we have to run program file views.py by using command    as mentioned below:
+
+	      $ python views.py
+5. After running the views.py, you have to Run main.py and execute the program using command as mentioned below:
 
 	      $ python main.py
 6. After running the program you can follow the instructions as displayed on your computer. 

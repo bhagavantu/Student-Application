@@ -44,8 +44,8 @@ This project built by using tkinter, peewee and Database SQlite.
 4. After navigation of project folder path, click on program files and open the files on your workspace and save it.
 5. We need to store the data and create Database for Student application so first we have to run program file views.py by using command    as mentioned below:
 
-	      $ python views.py
+	      python views.py
 5. After running the views.py, you have to Run main.py and execute the program using command as mentioned below:
 
-	      $ python main.py
+	      python main.py
 6. After running the program you can follow the instructions as displayed on your computer. 

@@ -1,7 +1,7 @@
 import peewee
 
 db=peewee.SqliteDatabase('student.db')
-
+#create Subject Table
 class Subject(peewee.Model):
 	
 	subject_name=peewee.TextField()
@@ -9,7 +9,7 @@ class Subject(peewee.Model):
 
 	class Meta:
 		database=db
-
+#create EnterMarks Table
 class EnterMarks(peewee.Model):
 	student_name=peewee.TextField()
 	usn=peewee.TextField()

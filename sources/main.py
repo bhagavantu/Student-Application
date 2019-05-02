@@ -1,7 +1,4 @@
-from tkinter import *
-
-
-
+from tkinter import *  #import tkinter library files
 
 MED_FONT=("Verdana",18) #font style for heading label
 

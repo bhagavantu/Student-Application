@@ -8,7 +8,7 @@ MED_FONT=("Verdana",18) #font style for heading label
 class SeeSubjects(Frame):
 
 	def __init__(self, parent, controller):
-		Frame.__init__(self, parent,background="#abcdef")
+		Frame.__init__(self, parent)
 		self.controller = controller
 
 		back_btn=Button(self,text="Back",command=lambda:controller.show_frame(Main), width=30)

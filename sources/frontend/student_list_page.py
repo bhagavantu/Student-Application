@@ -10,7 +10,7 @@ MED_FONT=("Verdana",18)  #font style for heading label
 class ViewStudentList(Frame):
 
 	def __init__(self, parent, controller):
-		Frame.__init__(self, parent,bg="#abcdef")
+		Frame.__init__(self, parent)
 		self.controller = controller
 
 		self.student_tree=Treeview(self, columns=('#1','#2','#3','#4','#5','#6'))

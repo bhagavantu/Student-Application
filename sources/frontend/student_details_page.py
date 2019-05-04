@@ -6,7 +6,7 @@ MED_FONT=("Verdana",18)  #font style for heading label
 class EnterStudentDetails(Frame):
 	
 	def __init__(self, parent, controller):
-		Frame.__init__(self, parent,background="#abcdef")
+		Frame.__init__(self, parent)
 		self.controller = controller
 		heading_label = Label(self, text="All Student Details", font=MED_FONT)
 		self.name_label = Label(self, text="Student Name",font=10)

@@ -8,7 +8,7 @@ MED_FONT=("Verdana",18)
 class AddSubjects(Frame):
 
 	def __init__(self, parent, controller):
-		Frame.__init__(self, parent,background="#abcdef")
+		Frame.__init__(self, parent)
 		self.controller = controller
 
 		subject_label = Label(self, text="Subject Name",font=10)

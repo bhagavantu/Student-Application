@@ -13,7 +13,7 @@ MED_FONT=("Verdana",18)  #font style for heading label
 class SeeIAMarks(Frame):
 
 	def __init__(self, parent, controller):
-		Frame.__init__(self, parent,bg="#abcdef")
+		Frame.__init__(self, parent)
 		self.controller = controller
 
 		self.IA_tree=Treeview(self, columns=('#1','#2','#3','#4','#5','#6'))
